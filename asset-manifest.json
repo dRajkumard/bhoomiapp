@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/bhoomiapp/static/js/main.b0184156.js",
+    "index.html": "/bhoomiapp/index.html",
+    "main.b0184156.js.map": "/bhoomiapp/static/js/main.b0184156.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.b0184156.js"
+  ]
+}
